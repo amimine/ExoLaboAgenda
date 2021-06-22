@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ExoLabo1</string>
+    <!-- page d'acceuil-->
+    <string name="home_page_title">Agenda</string>
+    <string name="home_page_button">Ajouter un évenement</string>
+    <string name="home_page_meteo">Meteo</string>
+    <string name="home_page_liste">Liste des évenements</string>
+    <!-- page de l'event liste-->
+
+
+
 </resources>
