@@ -2,7 +2,11 @@
     <string name="app_name">ExoLabo1</string>
     <!-- page d'acceuil-->
     <string name="home_page_title">Agenda</string>
-    <string name="home_page_button">Ajouter un évenement</string>
+    <string name="home_page_button_addEvent">Ajouter un évenement</string>
+    <string name="home_page_button_editEvent">Editer un évenement</string>
+    <string name="home_page_button_deleteEvent">Supprimer un évenement</string>
+    <string name="home_page_button_prevision">5 prochains jours</string>
+
     <string name="home_page_meteo">Meteo</string>
     <string name="home_page_liste">Liste des évenements</string>
     <!-- page de l'event liste-->
